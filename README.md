@@ -24,9 +24,9 @@ Hemos clasificado la complejidad mediante **Etiquetas (Labels)** en GitHub para 
 
 ## Metodología de Estimación: Poker Planning
 
-Para la gestión del esfuerzo y la complejidad de las tareas, utilizamos la técnica de **Planning Poker** basada en la serie de Fibonacci.
+Para la gestión del esfuerzo y la complejidad de las tareas, utilizamos la técnica de Poker Planning basada en la serie de Fibonacci.
 
-Hemos clasificado la complejidad mediante **Etiquetas (Labels)** en GitHub para visualizar rápidamente la carga de trabajo en el tablero Kanban.
+Hemos clasificado la complejidad mediante Etiquetas (Labels) en GitHub para visualizar rápidamente la carga de trabajo en el tablero Kanban.
 
 ### Clasificación de Puntos
 | Etiqueta | Puntos | Definición de Complejidad |
