@@ -18,12 +18,6 @@ Este proyecto tiene como objetivo modernizar el proceso de gestión de solicitud
 
 ## Metodología de Estimación: Poker Planning
 
-Para la gestión del esfuerzo y la complejidad de las tareas, utilizamos la técnica de Poker Planning basada en la serie de Fibonacci. 
-
-Hemos clasificado la complejidad mediante Etiquetas (Labels) en GitHub para visualizar rápidamente la carga de trabajo en el tablero Kanban.
-
-## Metodología de Estimación: Poker Planning
-
 Para la gestión del esfuerzo y la complejidad de las tareas, utilizamos la técnica de Poker Planning basada en la serie de Fibonacci.
 
 Hemos clasificado la complejidad mediante Etiquetas (Labels) en GitHub para visualizar rápidamente la carga de trabajo en el tablero Kanban.
