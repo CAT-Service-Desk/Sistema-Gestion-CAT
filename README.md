@@ -23,13 +23,13 @@ Para la gestión del esfuerzo y la complejidad de las tareas, utilizamos la téc
 Hemos clasificado la complejidad mediante **Etiquetas (Labels)** en GitHub para visualizar rápidamente la carga de trabajo en el tablero Kanban.
 
 ### Clasificación de Puntos
-| Etiqueta | Puntos | Definición de Complejidad | Ejemplo |
+| Etiqueta | Puntos | Definición de Complejidad |
 | :--- | :---: | :--- | :--- |
-| `Puntos: 1` | **1** | **Trivial:** Cambios de texto, configuración básica, documentación. | *Corregir un typo en el footer.* |
-| `Puntos: 2` | **2** | **Fácil:** Tareas pequeñas con poca lógica de negocio. | *Crear un botón HTML sin funcionalidad.* |
-| `Puntos: 3` | **3** | **Media:** Funcionalidades estándar que requieren lógica simple (Frontend + Backend). | *Formulario de contacto básico.* |
-| `Puntos: 5` | **5** | **Compleja:** Tareas que implican lógica avanzada, validaciones múltiples o conexiones externas. | *Sistema de Login con encriptación y Token.* |
-| `Puntos: 8` | **8** | **Muy Compleja:** Arquitectura base, cambios estructurales o tareas con alta incertidumbre. | *Diseño completo del Modelo Entidad-Relación.* |
+| `Puntos: 1` | **1** | **Trivial:** Cambios de texto, configuración básica, documentación. 
+| `Puntos: 2` | **2** | **Fácil:** Tareas pequeñas con poca lógica de negocio. |
+| `Puntos: 3` | **3** | **Media:** Funcionalidades estándar que requieren lógica simple (Frontend + Backend). |
+| `Puntos: 5` | **5** | **Compleja:** Tareas que implican lógica avanzada, validaciones múltiples o conexiones externas. | 
+| `Puntos: 8` | **8** | **Muy Compleja:** Arquitectura base, cambios estructurales o tareas con alta incertidumbre. |
 
 ### Justificación
 Se eligió esta metodología porque:
