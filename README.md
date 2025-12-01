@@ -17,7 +17,7 @@ Este proyecto tiene como objetivo modernizar el proceso de gestión de solicitud
 5. **Escalabilidad:** Soporte hasta 10,000 tickets anuales.
 
 ## Metodología de Estimación: Poker Planning
-Para la gestión del tiempo y complejidad, utilizaremos **Planning Poker** basado en puntos de historia.
+Para la gestión del tiempo y complejidad, utilizaremos Planning Poker basado en puntos de historia.
 
 **Justificación:**
 Elegimos esta técnica porque permite al equipo acordar la dificultad de cada tarea mediante una votación democrática, evitando que una sola persona imponga los tiempos y mejorando la precisión de las entregas.
