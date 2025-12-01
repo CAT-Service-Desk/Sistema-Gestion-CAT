@@ -1,0 +1,6 @@
+{
+  "app_name": "Sistema CAT",
+  "version": "1.0.0",
+  "api_url": "https://api.cat-universidad.edu.co",
+  "timeout": 5000
+}
